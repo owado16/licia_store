@@ -1,0 +1,18 @@
+<!-- checkout.html -->
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Checkout</h2>
+<form method="post">
+    {% csrf_token %}
+    <div class="form-group">
+        <label for="payment_type">Choose a payment method:</label>
+        <select name="payment_type" id="payment_type" class="form-control">
+            <option value="credit_card" {% if payment_type == "credit_card" %}selected{% endif %}>Credit Card</option>
+            <option value="paypal" {% if payment_type == "paypal" %}selected{% endif %}>PayPal</option>
+            <option value="bank_transfer" {% if payment_type == "bank_transfer" %}selected{% endif %}>Bank Transfer</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Confirm Order</button>
+</form>
+{% endblock %}

@@ -1,0 +1,1 @@
+web: gunicorn licia_store.wsgi:application --log-file -

@@ -24,7 +24,7 @@ A step by step series of examples that tell you how to get a development environ
 
 # Get Started
 To setup the PyShop project, here is the following guidelines:
-* Clone the repository <code>git clone https://github.com/thisishaykins/licia_store.git</code>
+* Clone the repository <code>git clone https://github.com/owado16/licia_store.git</code>
 * Open Project folder on terminal 
 * Prepare your virtual environment <code>python3 -m venv venv</code> 
 * Activate your virtual environment <code>source env/bin/activate</code>
@@ -104,22 +104,10 @@ If you wish to extend or contribute to the project, please ensure you adhere to 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-Enjoy your development with Licia's Store!
-
    
 
-
-
-
-## Security Vulnerabilities
-If you discover a vulnerability or bugs within this project, please send an e-mail to Akinshola Samuel via [akinsholasamuel@gmail.com](mailto:akinsholasamuel@gmail.com). All bugs and vulnerabilities will be promptly addressed.
+## Live demo of the app can be see 
+here https://licia-store.onrender.com
 
 
 

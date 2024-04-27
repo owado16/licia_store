@@ -40,6 +40,39 @@ To setup the PyShop project, here is the following guidelines:
 * Visit Products Page using <code>http://127.0.0.1:8000/products/</code>
 * Visit New Arrival (Products) Page using <code>http://127.0.0.1:8000/products/new</code>
 
+# Licia Store Website Usage Guide
+
+Welcome to the Licia Store, where you can browse and purchase a variety of products. This guide provides instructions on how to access and use the website, tailored to different types of users.
+
+## For Guests and General Users
+
+### Accessing the Website
+To visit the Licia Store, simply click on the following link: [Licia Store Web App](https://licia-store.onrender.com/). Here you can browse products, view details, and make purchases.
+
+## For Admin Users
+
+### Admin Dashboard
+Admin users should use a separate link to access the admin dashboard: [Licia Store Admin Dashboard](https://licia-store.onrender.com/admin). Please ensure you have your admin credentials to log in.
+
+### Admin Features
+Once logged in, the admin dashboard offers several functionalities:
+
+- **Viewing Products**: Admins can view a list of all products, along with detailed information.
+- **Adding Products**: Admins have the capability to add new products to the store.
+- **Editing Products**: Existing products can be edited to update information or modify specifications.
+- **Deleting Products**: Admins can remove products that are no longer available or needed in the store.
+- **Managing Offers**: Special offers can be created and managed, allowing admins to apply discounts or promotions on various products.
+
+### Logging In
+To log into the admin dashboard:
+1. Visit the [Admin Login Page](https://licia-store.onrender.com/admin).
+2. Enter your username and password.
+3. Once authenticated, you will have access to the admin functionalities described above.
+
+## Support
+If you encounter any issues or require assistance, please contact our support team at [support@licia-store.com](mailto:support@licia-store.com).
+
+Thank you for using Licia Store!
 
 
 

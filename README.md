@@ -20,7 +20,7 @@ What things you need to install the software and how to install them:
 A step by step series of examples that tell you how to get a development environment running:
 
 1. **Clone the Repository**
-   git clone https://github.com/thisishaykins/licia_store.git
+   git clone https://github.com/owado16/licia_store.git
 
 # Get Started
 To setup the PyShop project, here is the following guidelines:

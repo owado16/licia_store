@@ -1,0 +1,632 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "products",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "products",
+        "description": "products",
+        "detail": "products",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "products",
+        "description": "products",
+        "isExtraImport": true,
+        "detail": "products",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "require_POST",
+        "importPath": "django.views.decorators.http",
+        "description": "django.views.decorators.http",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.http",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'grm@_$#@#i$*wm)ct235ln4jg1jxd$^tf&y2wyt5@s%(im)ckr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "SECRET_KEY = 'grm@_$#@#i$*wm)ct235ln4jg1jxd$^tf&y2wyt5@s%(im)ckr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'products.apps.ProductsConfig',",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'products.apps.ProductsConfig',\n    'django_behave',\n]",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'licia_store.urls'",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "ROOT_URLCONF = 'licia_store.urls'\nTEST_RUNNER = 'django_behave.runner.DjangoBehaveTestSuiteRunner'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR, 'templates')\n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_RUNNER",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "TEST_RUNNER = 'django_behave.runner.DjangoBehaveTestSuiteRunner'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR, 'templates')\n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR, 'templates')\n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'licia_store.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.1/ref/settings/#databases\n# DATABASES = {\n#     'default': {\n#         'ENGINE': 'django.db.backends.sqlite3',\n#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n#     }\n# }\nDATABASES = {",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': os.environ.get('DB_NAME'),\n        'USER': os.environ.get('DB_USER'),\n        'PASSWORD': os.environ.get('DB_PASSWORD'),\n        'HOST': os.environ.get('DB_HOST'),\n        'PORT': os.environ.get('DB_PORT', 5432),\n    }\n}",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "licia_store.settings",
+        "description": "licia_store.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "licia_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "licia_store.urls",
+        "description": "licia_store.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('products/', include('products.urls')),\n    path('', include('products.urls')),  # Add this line for the homepage\n    # path('', include('products.urls'))\n]",
+        "detail": "licia_store.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "licia_store.wsgi",
+        "description": "licia_store.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "licia_store.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "products.features.steps.cart_steps",
+        "description": "products.features.steps.cart_steps",
+        "peekOfCode": "def step_impl(context):\n    context.browser.visit(context.get_url('product_list'))\n@when('I click on \"Add to cart\" for \"Product A\"')\ndef step_impl(context):\n    context.browser.find_by_text('Add to cart')[0].click()\n@then('\"Product A\" should be added to my cart')\ndef step_impl(context):\n    cart_link = context.browser.find_by_id('cart_link')\n    cart_link.click()\n    assert \"Product A\" in context.browser.html",
+        "detail": "products.features.steps.cart_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "products.features.steps.cart_steps",
+        "description": "products.features.steps.cart_steps",
+        "peekOfCode": "def step_impl(context):\n    context.browser.find_by_text('Add to cart')[0].click()\n@then('\"Product A\" should be added to my cart')\ndef step_impl(context):\n    cart_link = context.browser.find_by_id('cart_link')\n    cart_link.click()\n    assert \"Product A\" in context.browser.html",
+        "detail": "products.features.steps.cart_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "products.features.steps.cart_steps",
+        "description": "products.features.steps.cart_steps",
+        "peekOfCode": "def step_impl(context):\n    cart_link = context.browser.find_by_id('cart_link')\n    cart_link.click()\n    assert \"Product A\" in context.browser.html",
+        "detail": "products.features.steps.cart_steps",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0001_initial",
+        "description": "products.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Product',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255)),",
+        "detail": "products.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0002_offer",
+        "description": "products.migrations.0002_offer",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('products', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Offer',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('code', models.CharField(max_length=10)),",
+        "detail": "products.migrations.0002_offer",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0003_product_description",
+        "description": "products.migrations.0003_product_description",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('products', '0002_offer'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='product',\n            name='description',\n            field=models.CharField(default=1, max_length=255),\n            preserve_default=False,",
+        "detail": "products.migrations.0003_product_description",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0004_cart_cartitem",
+        "description": "products.migrations.0004_cart_cartitem",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('products', '0003_product_description'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Cart',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('session_key', models.CharField(max_length=255, unique=True)),",
+        "detail": "products.migrations.0004_cart_cartitem",
+        "documentation": {}
+    },
+    {
+        "label": "OfferAdmin",
+        "kind": 6,
+        "importPath": "products.admin",
+        "description": "products.admin",
+        "peekOfCode": "class OfferAdmin(admin.ModelAdmin):\n    list_display = ('code', 'discount', 'description')\nclass ProductAdmin(admin.ModelAdmin):\n    list_display = ('name', 'price', 'stock')\n# Register your models here.\nadmin.site.register(Offer, OfferAdmin)\nadmin.site.register(Product, ProductAdmin)",
+        "detail": "products.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProductAdmin",
+        "kind": 6,
+        "importPath": "products.admin",
+        "description": "products.admin",
+        "peekOfCode": "class ProductAdmin(admin.ModelAdmin):\n    list_display = ('name', 'price', 'stock')\n# Register your models here.\nadmin.site.register(Offer, OfferAdmin)\nadmin.site.register(Product, ProductAdmin)",
+        "detail": "products.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProductsConfig",
+        "kind": 6,
+        "importPath": "products.apps",
+        "description": "products.apps",
+        "peekOfCode": "class ProductsConfig(AppConfig):\n    name = 'products'",
+        "detail": "products.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "products.models",
+        "description": "products.models",
+        "peekOfCode": "class Product(models.Model):\n    name = models.CharField(max_length=255)\n    price = models.FloatField()\n    description = models.CharField(max_length=255)\n    stock = models.IntegerField()\n    image_url = models.CharField(max_length=2083)\nclass Offer(models.Model):\n    code = models.CharField(max_length=10)\n    description = models.CharField(max_length=255)\n    discount = models.FloatField()",
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Offer",
+        "kind": 6,
+        "importPath": "products.models",
+        "description": "products.models",
+        "peekOfCode": "class Offer(models.Model):\n    code = models.CharField(max_length=10)\n    description = models.CharField(max_length=255)\n    discount = models.FloatField()\nclass Cart(models.Model):\n    session_key = models.CharField(max_length=255, unique=True)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f'Cart {self.id}'\n    def get_total_cost(self):",
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "products.models",
+        "description": "products.models",
+        "peekOfCode": "class Cart(models.Model):\n    session_key = models.CharField(max_length=255, unique=True)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f'Cart {self.id}'\n    def get_total_cost(self):\n        return sum(item.get_cost() for item in self.items.all())\nclass CartItem(models.Model):\n    cart = models.ForeignKey(Cart, on_delete=models.CASCADE, related_name='items')\n    product = models.ForeignKey(Product, on_delete=models.SET_NULL, null=True)",
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "kind": 6,
+        "importPath": "products.models",
+        "description": "products.models",
+        "peekOfCode": "class CartItem(models.Model):\n    cart = models.ForeignKey(Cart, on_delete=models.CASCADE, related_name='items')\n    product = models.ForeignKey(Product, on_delete=models.SET_NULL, null=True)\n    quantity = models.PositiveIntegerField(default=1)\n    def __str__(self):\n        return f'{self.quantity} of {self.product.name}'\n    def get_cost(self):\n        return self.product.price * self.quantity",
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "products.urls",
+        "description": "products.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',  views.index, name='index'),\n    path('new/', views.new),\n    path('cart/', views.cart_detail, name='cart_detail'),\n    # path('cart/', views.cart_detail, name='cart_detail'),\n    path('cart/add/<int:product_id>/', views.cart_add, name='cart_add'),\n    path('cart/remove/<int:product_id>/', views.cart_remove, name='cart_remove'),\n    path('checkout/', views.checkout, name='checkout'),\n    # path('products/', views.product_list, name='product_list'),\n    path('payment-confirmation/<str:payment_type>/', views.payment_confirmation, name='payment_confirmation'),",
+        "detail": "products.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def index(request):\n    search_query = request.GET.get('search', '')  # Get the search parameter from the URL\n    if search_query:\n        products = Product.objects.filter(name__icontains=search_query) | Product.objects.filter(description__icontains=search_query)\n    else:\n        products = Product.objects.all()  # No search query, show all products\n    return render(request, 'index.html', {'products': products})\ndef new(request):\n    return HttpResponse('Welcome to Licia store New Arrivals')\ndef cart_detail(request):",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "new",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def new(request):\n    return HttpResponse('Welcome to Licia store New Arrivals')\ndef cart_detail(request):\n    session_key = request.session.session_key\n    if not session_key:\n        request.session.create()\n        session_key = request.session.session_key\n    cart, created = Cart.objects.get_or_create(session_key=session_key)\n    return render(request, 'cart_details.html', {'cart': cart})\ndef cart_add(request, product_id):",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "cart_detail",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def cart_detail(request):\n    session_key = request.session.session_key\n    if not session_key:\n        request.session.create()\n        session_key = request.session.session_key\n    cart, created = Cart.objects.get_or_create(session_key=session_key)\n    return render(request, 'cart_details.html', {'cart': cart})\ndef cart_add(request, product_id):\n    session_key = request.session.session_key\n    if not session_key:",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "cart_add",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def cart_add(request, product_id):\n    session_key = request.session.session_key\n    if not session_key:\n        request.session.create()\n        session_key = request.session.session_key\n    cart, created = Cart.objects.get_or_create(session_key=session_key)\n    product = get_object_or_404(Product, id=product_id)\n    cart_item, created = CartItem.objects.get_or_create(cart=cart, product=product)\n    cart_item.quantity += 1\n    cart_item.save()",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "cart_remove",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def cart_remove(request, product_id):\n    session_key = request.session.session_key\n    cart = get_object_or_404(Cart, session_key=session_key)\n    product = get_object_or_404(Product, id=product_id)\n    cart_item = get_object_or_404(CartItem, product=product, cart=cart)\n    if cart_item.quantity > 1:\n        cart_item.quantity -= 1\n        cart_item.save()\n    else:\n        cart_item.delete()",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "checkout",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def checkout(request):\n    # Initialize default context with None or default values\n    payment_type = None\n    if request.method == 'POST':\n        # Get the payment type from POST request data\n        payment_type = request.POST.get('payment_type')\n        # Add any necessary logic based on the payment type\n        return redirect('payment_confirmation', payment_type=payment_type)\n    # Ensure that payment_type or any other necessary data is included in the context\n    context = {",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "payment_confirmation",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def payment_confirmation(request, payment_type):\n    # Ensure the template gets the payment_type correctly\n    return render(request, 'payment_confirmation.html', {'payment_type': payment_type})\n# def product_list(request):\n#     search_query = request.GET.get('search', '')  # Get the search parameter from the URL\n#     if search_query:\n#         # Filter products based on the search query\n#         products = Product.objects.filter(name__icontains=search_query) | Product.objects.filter(description__icontains=search_query)\n#     else:\n#         products = Product.objects.all()  # No search query, show all products",
+        "detail": "products.views",
+        "documentation": {}
+    }
+]

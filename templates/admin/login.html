@@ -1,0 +1,14 @@
+{% extends "admin/login.html" %}
+{% load i18n static %}
+
+{% block content %}
+{{ block.super }}
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+    const adminText = document.querySelector('h1');
+    if (adminText) {
+        adminText.textContent = 'Licia Store Admin Login';
+    }
+});
+</script>
+{% endblock %}
